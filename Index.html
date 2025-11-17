@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <title>ADAN ALEXIS PLICET | Portafolio</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+<header class="topbar">
+    <div class="topbar-content">
+
+        <div class="logo-text">
+            <span class="logo-dot"></span>
+            <span class="logo-name">ADAN ALEXIS PLICET</span>
+        </div>
+
+        <nav class="main-nav">
+            <a href="index.html" data-i18n="nav_home"></a>
+            <a href="proyectos.html" data-i18n="nav_projects"></a>
+            <a href="habilidades.html" data-i18n="nav_skills"></a>
+            <a href="contacto.html" data-i18n="nav_contact"></a>
+        </nav>
+
+        <div class="lang-switch">
+            <button onclick="setLanguage('es')">🇪🇸</button>
+            <button onclick="setLanguage('en')">🇺🇸</button>
+            <button onclick="setLanguage('fr')">🇫🇷</button>
+        </div>
+
+    </div>
+</header>
+
+<main>
+
+    <section class="hero">
+        <div class="hero-wrapper">
+
+            <div class="hero-content">
+                <p class="hero-tag" data-i18n="hero_tag"></p>
+                <h1 data-i18n="hero_title"></h1>
+                <p class="hero-subtitle" data-i18n="hero_subtitle"></p>
+
+                <div class="hero-actions">
+                    <a href="proyectos.html" class="btn primary" data-i18n="btn_projects"></a>
+                    <a href="contacto.html" class="btn ghost" data-i18n="btn_contact"></a>
+                </div>
+
+                <div class="hero-badges">
+                    <span data-i18n="badge_engineer"></span>
+                    <span data-i18n="badge_webdev"></span>
+                    <span data-i18n="badge_security"></span>
+                </div>
+            </div>
+
+            <div class="hero-photo">
+                <img src="img/adan.jpg" alt="Foto de Adan Alexis Plicet">
+            </div>
+
+        </div>
+    </section>
+
+    <section class="layout">
+
+        <div class="main-column">
+
+            <div class="card">
+
+                <h2 data-i18n="about_title"></h2>
+
+                <p data-i18n="about_p1"></p>
+                <p data-i18n="about_p2"></p>
+                <p data-i18n="about_p3"></p>
+
+                <!-- ESPACIO ARRIBA -->
+                <div class="space-block"></div>
+
+                <!-- LISTA DE HERRAMIENTAS -->
+                <ul class="tool-list">
+                    <li data-i18n="tool_1"></li>
+                    <li data-i18n="tool_2"></li>
+                    <li data-i18n="tool_3"></li>
+                    <li data-i18n="tool_4"></li>
+                    <li data-i18n="tool_5"></li>
+                </ul>
+
+                <!-- ESPACIO ABAJO -->
+                <div class="space-block"></div>
+
+                <p data-i18n="about_p5"></p>
+                <p data-i18n="about_p6"></p>
+                <p data-i18n="about_p7"></p>
+
+            </div>
+
+        </div>
+
+        <aside class="side-column">
+
+            <div class="card">
+                <h2 data-i18n="quick_title"></h2>
+                <ul class="skills-list">
+                    <li data-i18n="quick_1"></li>
+                    <li data-i18n="quick_2"></li>
+                    <li data-i18n="quick_3"></li>
+                    <li data-i18n="quick_4"></li>
+                </ul>
+            </div>
+
+        </aside>
+
+    </section>
+
+</main>
+
+<footer class="site-footer">
+    <p data-i18n="footer"></p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
