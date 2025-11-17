@@ -1,0 +1,52 @@
+{
+    "title": "Portfolio | Adan Alexis Plicet",
+
+    "nav_home": "Accueil",
+    "nav_projects": "Projets",
+    "nav_skills": "Compétences",
+    "nav_contact": "Contact",
+
+    "hero_tag": "Étudiant en ingénierie des systèmes",
+    "hero_title": "Salut, je suis Adan Alexis Plicet",
+    "hero_subtitle": "En formation en développement logiciel, bases de données et cybersécurité. Ce portfolio présente mes progrès, projets et compétences pendant mon évolution dans le domaine technologique.",
+
+    "btn_projects": "Voir les projets",
+    "btn_contact": "Me contacter",
+
+    "badge_engineer": "⚙️ Ingénierie des systèmes",
+    "badge_webdev": "💻 Développement web",
+    "badge_security": "🔐 Intérêt pour la cybersécurité",
+
+    "about_title": "À propos de moi",
+    "about_p1": "Je suis étudiant en ingénierie des systèmes avec une formation axée sur le développement logiciel, les bases de données, l'infrastructure technologique et la cybersécurité.",
+    "about_p2": "J'aime comprendre le fonctionnement interne des technologies, créer des solutions pratiques et documenter mon apprentissage dans le cadre de mon développement professionnel.",
+
+    "summary_title": "Résumé rapide",
+    "summary_text": "• Axé sur le développement et la sécurité. • Une expérience préalable renforce ma discipline. • Connaissances en HTML, CSS, JavaScript et SQL. • Portfolio en croissance continue.",
+
+    "projects_title": "Projets | Adan Alexis Plicet",
+    "projects_header": "Projets",
+    "projects_intro": "Voici quelques projets initiaux et futurs développements réalisés au cours de ma formation.",
+
+    "project1_title": "Projet 1 — Système Web de Base",
+    "project1_desc": "Projet d’introduction développé avec HTML, CSS et JavaScript pour renforcer les bases de la structure, du design et de la logique dans les applications web.",
+
+    "project2_title": "Projet 2 — Application en Développement",
+    "project2_desc": "Concept d’application pour pratiquer la gestion de données, la structure modulaire et les bonnes pratiques de programmation.",
+
+    "skills_title": "Compétences | Adan Alexis Plicet",
+    "skills_header": "Compétences",
+    "skills_intro": "Compétences techniques et domaines en développement qui renforcent mon profil professionnel.",
+
+    "skill_html": "HTML et CSS — Niveau basique/intermédiaire",
+    "skill_js": "JavaScript — En progression",
+    "skill_sql": "Bases de données et SQL — En apprentissage",
+    "skill_security": "Cybersécurité — Auto-formation",
+
+    "contact_title": "Contact | Adan Alexis Plicet",
+    "contact_header": "Contact",
+    "contact_intro": "Si vous souhaitez me contacter, voici mes informations.",
+    "contact_email": "alexisplicet@gmail.com",
+
+    "footer": "© 2025 Adan Alexis Plicet · Portfolio en développement"
+}

@@ -1,0 +1,58 @@
+{
+    "hero_tag": "Estudiante de Ingeniería en Sistemas",
+    "hero_title": "ADAN ALEXIS PLICET",
+    "hero_subtitle": "En formación en desarrollo de software, bases de datos y seguridad informática. Este portafolio muestra mi progreso, proyectos y habilidades mientras avanzo en mi carrera tecnológica.",
+
+    "btn_projects": "Ver proyectos",
+    "btn_contact": "Contactar",
+
+    "badge_engineer": "⚙️ Ingeniería en Sistemas",
+    "badge_webdev": "💻 Desarrollo web",
+    "badge_security": "🔐 Interés en ciberseguridad",
+
+    "about_title": "Sobre mí",
+    "about_p1": "Soy estudiante de cuarto año de Ingeniería en Sistemas, con 7 años de experiencia laboral en seguridad migratoria y controles fronterizos, donde he trabajado en operaciones aéreas, terrestres y marítimas. Durante mi trayectoria en el Servicio Nacional de Migración de la República de Panamá, tuve la oportunidad de desempeñar funciones críticas que me permitieron comprender a profundidad los procesos operativos, administrativos y tecnológicos que respaldan la seguridad nacional.",
+    "about_p2": "He ejercido roles en áreas estratégicas y de alta responsabilidad, incluyendo control migratorio marítimo, análisis de documentación internacional, verificación de idoneidades y aprobación de visas especializadas para tripulantes, técnicos y superintendentes en tránsito hacia Panamá. Esta experiencia me brindó un entendimiento integral de protocolos internacionales, regulación marítima y cumplimiento de estándares recomendados por organismos como la OMI (Organización Marítima Internacional).",
+    "about_p3": "Poseo formación en seguridad pública, seguridad pública migratoria y defensa personal, lo que complementa mi perfil analítico con habilidades operativas y criterio sólido para la toma de decisiones. Adicionalmente, manejé herramientas tecnológicas utilizadas para la verificación internacional de pasajeros, documentos y listas de seguridad, tales como BITMAP, INTERPOL I-24/7, TECS/APIS, SITA/Timatic y sistemas de alertas regionales.",
+    "about_p4": "Asimismo, participé en el desarrollo e implementación de la Visa Electrónica E para marinos, un proyecto que permitió digitalizar procesos, mejorar tiempos de respuesta, fortalecer los controles en aeropuertos internacionales y reducir el uso de papel mediante un sistema más seguro y trazable. Mi rol se enfocó en el análisis de documentos, optimización del flujo migratorio y coordinación con agencias marítimas.",
+    "about_p5": "Actualmente estoy consolidando mi formación en Licenciatura en Ingeniería de Sistemas, orientado al desarrollo de software, bases de datos, análisis de sistemas y seguridad informática, con el objetivo de integrar mi experiencia en seguridad con soluciones tecnológicas que aporten eficacia, confiabilidad y valor estratégico a las organizaciones.",
+
+    "quick_title": "Resumen rápido",
+    "quick_1": "Enfoque en desarrollo de software, seguridad informática y análisis técnico.",
+    "quick_2": "Experiencia previa en seguridad migratoria que refuerza mi disciplina, criterio y capacidad operativa.",
+    "quick_3": "Conocimientos en HTML, CSS, JavaScript y SQL, aplicados en proyectos en crecimiento.",
+    "quick_4": "Portafolio en constante evolución, incorporando nuevas habilidades, prácticas y certificaciones internacionales.",
+
+    "projects_title": "PROYECTOS",
+    "projects_intro": "Aquí presento mi proyecto más importante en mi carrera profesional.",
+
+    "project1_title": "Visa Electrónica E para Marinos",
+    "project1_desc": "Participé en el desarrollo e implementación del proceso de Visa Electrónica E para marinos, técnicos y superintendentes que ingresaban a Panamá para embarcar, desembarcar o realizar relevos dentro de la operación marítima nacional. Este proyecto surgió como una respuesta a la necesidad global de agilizar, digitalizar y asegurar los trámites migratorios especializados, en cumplimiento con los lineamientos establecidos por la Organización Marítima Internacional (OMI/IMO) y las buenas prácticas del sector marítimo internacional.",
+    "project1_desc2": "Mi participación se centró en la optimización del flujo migratorio y la transición de procesos manuales hacia un sistema completamente digital. Esto incluyó la revisión, validación y transformación de procedimientos internos para garantizar que la plataforma cumpliera con los estándares de seguridad, trazabilidad y eficiencia requeridos para el control migratorio marítimo. Con la Visa Electrónica E se logró reducir significativamente el uso de papel, mejorar la precisión de la información registrada y fortalecer la trazabilidad documental en cada etapa del proceso.",
+    "project1_desc3": "El componente tecnológico del proyecto también fue clave: la visa permitía que las verificaciones se realizaran de manera automática en aeropuertos internacionales antes del embarque, conectándose con listas de seguridad globales y sistemas de verificación avanzada. Esto garantizó un proceso más rápido, seguro y confiable, tanto para agencias marítimas como para tripulantes provenientes de diferentes partes del mundo.",
+    "project1_desc4": "Además, el proyecto contribuyó a posicionar a Panamá como un referente regional en modernización de trámites migratorios vinculados al sector marítimo, ofreciendo un servicio ágil y alineado con las necesidades actuales de la industria. Esta experiencia reforzó mis habilidades de análisis, coordinación interinstitucional, documentación técnica y adaptación tecnológica, consolidando mi perfil como profesional capaz de participar en proyectos complejos de transformación digital.",
+
+    "skills_title": "HABILIDADES",
+    "skills_intro": "Competencias técnicas y áreas en desarrollo que fortalecen mi perfil profesional:",
+
+    "courses_title": "Cursos Completados",
+
+    "courses_google_title": "Google – Cybersecurity Professional Certificate",
+    "courses_google_1": "Foundations of Cybersecurity",
+    "courses_google_2": "Play It Safe: Manage Security Risks",
+    "courses_google_3": "Connect and Protect: Networks and Network Security",
+    "courses_google_4": "Tools of the Trade: Linux and SQL",
+    "courses_google_5": "Assets, Threats, and Vulnerabilities",
+    "courses_google_6": "Sound the Alarm: Detection and Response",
+    "courses_google_7": "Automate Cybersecurity Tasks with Python",
+    "courses_google_8": "Put It to Work: Prepare for Cybersecurity Jobs",
+    "courses_google_9": "Accelerate Your Job Search with AI",
+
+    "courses_ibm_title": "IBM – Data, AI & Software Programs",
+    "courses_ibm_1": "Python for Data Science, AI & Development",
+    "courses_ibm_2": "Introduction to HTML, CSS & JavaScript",
+    "courses_ibm_3": "Generative AI: Prompt Engineering Basics",
+    "courses_ibm_4": "Generative AI: Introduction and Applications",
+    "courses_ibm_5": "Introduction to Artificial Intelligence (AI)",
+    "courses_ibm_6": "Introduction to Software Engineering"
+}
